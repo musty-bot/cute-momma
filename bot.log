@@ -1,0 +1,32 @@
+[2025-12-06 10:17:17] [INFO] 🚀 Starting WhatsApp Bot with Baileys...
+[2025-12-06 10:17:17] [INFO] 📁 Status data directory: ./status-data
+[2025-12-06 10:17:19] [INFO] 📱 Using WA version: 2.3000.1027934701, isLatest: true
+[2025-12-06 14:08:47] [INFO] 🚀 Starting WhatsApp Bot with Baileys...
+[2025-12-06 14:08:47] [INFO] 🌐 Web dashboard running on http://localhost:3000
+[2025-12-06 14:08:47] [INFO] 📁 Status data directory: ./status-data
+[2025-12-06 14:08:48] [INFO] 📱 Using WA version: 2.3000.1027934701, isLatest: true
+[2025-12-06 14:08:50] [INFO] QR Code received
+[2025-12-06 14:09:50] [INFO] QR Code received
+[2025-12-06 14:10:10] [INFO] QR Code received
+[2025-12-06 14:10:31] [INFO] QR Code received
+[2025-12-06 15:50:52] [INFO] 🚀 Starting WhatsApp Bot with Baileys...
+[2025-12-06 15:50:52] [INFO] 🌐 Web dashboard running on http://localhost:3000
+[2025-12-06 15:50:52] [INFO] 📁 Status data directory: ./status-data
+[2025-12-06 15:50:53] [INFO] 📱 Using WA version: 2.3000.1027934701, isLatest: true
+[2025-12-06 15:50:54] [INFO] QR Code received
+[2025-12-06 15:51:55] [INFO] QR Code received
+[2025-12-06 15:52:15] [INFO] QR Code received
+[2025-12-06 15:52:27] [WARN] 🔌 Connection closed: Stream Errored (restart required), Reconnecting: true
+[2025-12-06 15:52:32] [INFO] 🚀 Starting WhatsApp Bot with Baileys...
+[2025-12-06 15:52:33] [INFO] 📱 Using WA version: 2.3000.1027934701, isLatest: true
+[2025-12-06 15:52:35] [SUCCESS] ✅ WhatsApp Client is ready!
+[2025-12-06 15:52:41] [INFO] ⏰ Status polling started (every 5 minutes)
+[2025-12-06 15:52:41] [INFO] 📡 Status event handlers set up
+[2025-12-06 15:52:41] [SUCCESS] ✅ Status monitoring initialized
+[2025-12-06 15:52:41] [INFO] 📊 Monitoring 0 contacts
+[2025-12-06 15:53:31] [INFO] 🤖 Auto-reply sent to 120363408279980394@g.us
+[2025-12-06 15:54:14] [INFO] 🤖 Auto-reply sent to 120363419264554195@g.us
+[2025-12-06 15:54:28] [INFO] 🛠️ Command "help" from 46631080710174@lid
+[2025-12-06 15:54:28] [INFO] ✅ Help command executed by 120363419264554195@g.us
+[2025-12-06 15:55:03] [WARN] 🔌 Connection closed: Connection Terminated, Reconnecting: true
+[2025-12-06 15:55:08] [INFO] 🚀 Starting WhatsApp Bot with Baileys...
